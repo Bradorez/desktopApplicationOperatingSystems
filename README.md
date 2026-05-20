@@ -74,4 +74,4 @@ This application is a CPU Scheduling Simulator with a GTK4-based graphical inter
 - Each process gets CPU for a short slice (e.g., 2 seconds)
 
 ## Screenshots (Main window)
-*(Functioning scheduling application with different algorithms ran)*
+![CPU Scheduling Simulator Screenshot](screenshot.png)
